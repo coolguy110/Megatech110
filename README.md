@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/minotaurs110/minotaurs110/" target="blank">Minotaurs!</a></h1>
+<h1 align="center">Hello, Nice To Meet You 👋, I'm <a href="https://github.com/minotaurs110/minotaurs110/" target="blank">Minotaurs!</a></h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-## I'm a Senior Full-Stack Developer
+# I'm a Senior Full-Stack Developer
+
 Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
 I'm Senior Web & BlockChain Developer with over +9 years experiences in this field.
 So I'm not a new bee and serving me with your project wouldn't cause any loss.
