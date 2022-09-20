@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/minotaurs110/minotaurs110/" target="blank">Minotaurs!</a></h1>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--
 **minotaurs110/minotaurs110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
