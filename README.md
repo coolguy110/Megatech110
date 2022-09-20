@@ -2,9 +2,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 # I'm a Senior Full-Stack Developer
 
-Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
-I'm Senior Web & BlockChain Developer with over +9 years experiences in this field.
-So I'm not a new bee and serving me with your project wouldn't cause any loss.
+- Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
+- I'm Senior Web & BlockChain Developer with over +9 years experiences in this field.
+- So I'm not a new bee and serving me with your project wouldn't cause any loss.
 
 <!--
 **minotaurs110/minotaurs110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
