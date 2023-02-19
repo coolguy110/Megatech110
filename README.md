@@ -5,7 +5,7 @@
 ## I'm a Senior Full-Stack Developer
 
 - 🔭 Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
-- 🌱 I'm Senior Web & BlockChain Developer with over +9 years experiences in this field.
+- 🌱 I'm Senior Web & BlockChain Developer with over +7 years experiences in this field.
 - 👯 So I'm not a new bee and serving me with your project wouldn't cause any loss.
 - 💪I believe that people should do things in which they are good at or in which their heart lays.
 
