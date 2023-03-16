@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" height="300px" width="400px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Talented Developer
+## “The past is done. The future has plenty of room for change.”
+
 
 - 🔭 Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
 - 🌱 I'm Senior Web & BlockChain Developer with over +7 years experiences in this field.
