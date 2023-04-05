@@ -4,7 +4,7 @@
 
 
 - 🔭 Taking web development as a profession not only fulfils my pocket but also my heart because it has been my passion since my early teenage.
-- 🌱 I'm Software Engineer with over +7 years experiences in this field.
+- 🌱 I'm a Software Engineer with over +7 years experiences in this field.
 - 👯 So I'm not a new bee and serving me with your project wouldn't cause any loss.
 - 💪I believe that people should do things in which they are good at or in which their heart lays.
 - 😄Beyond the coding chops, I'm an excellent communicator and team player, I’m passionate about writing and sharing what I’ve learned both with my teammates and the     broader web community. 
