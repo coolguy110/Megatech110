@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Nice To Meet You 👋, I'm <a href="https://github.com/minotaurs110/minotaurs110/" target="blank">CoolGuy!</a></h1>
+<h1 align="center">Hello, Nice To Meet You 👋, I'm <a href="https://github.com/minotaurs110/minotaurs110/" target="blank">Dulat!</a></h1>
 
 ## “The past is done. The future has plenty of room for change.”
 
