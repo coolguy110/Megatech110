@@ -8,6 +8,7 @@
 - 💪I believe that people should do things in which they are good at or in which their heart lays.
 - 😄Beyond the coding chops, I'm an excellent communicator and team player, I’m passionate about writing and sharing what I’ve learned both with my teammates and the     broader web community. 
 - ⚡I really value the ability to not only perform web development work but also help others improve their craft, because I’ve gained so much from others sharing their skills and knowledge.
+- 🌱I'm well versed in Js, TS, React, Vue, Gatsby, Apollo, Node, PHP(Symfony + Laravel), Golang and AWS
 
 
 <!--
