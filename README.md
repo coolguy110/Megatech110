@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Nice To Meet You 👋, I'm <a href="https://github.com/Megatech110/Readme/" target="blank">Daniel</a></h1>
+<h1 align="center">Hello, Nice To Meet You 👋</h1>
 
 ## “The past is done. The future has plenty of room for change.”
 
